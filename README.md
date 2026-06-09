@@ -3,7 +3,7 @@ Web API desenvolvida com .NET 10 para demonstrar um CRUD simples de estudantes. 
 
 ## 🛠️ Tecnologias e Ferramentas
 - ASP.NET Core Web API
-- Entity Framework COre
+- Entity Framework Core
 - AutoMapper
 - SQL Server
 
